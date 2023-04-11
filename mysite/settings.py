@@ -1,12 +1,12 @@
 from pathlib import Path
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import dj_database_url
 #import django_heroku
 from django.core.management.utils import get_random_secret_key
 import os
 import sys
 
-load_dotenv()
+#load_dotenv()
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
