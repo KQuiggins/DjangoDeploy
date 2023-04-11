@@ -1,5 +1,4 @@
 from pathlib import Path
-from mysite.wsgi import application
 from dotenv import load_dotenv
 import dj_database_url
 #import django_heroku
